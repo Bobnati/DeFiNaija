@@ -1,0 +1,59 @@
+img {
+    width: 100%;
+}
+
+.imageContainer-for-Header {
+    width:100%
+}
+
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-image: url(images/bitcoin-background.jpg);
+    background-color: black;
+    background-position: center;
+}
+
+.head {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.news {
+    width: 40%;
+    margin: 0 auto;
+    color: white;
+    font-size: 40px;
+    background-color: black;
+    border-radius: 15px;
+   
+}
+
+.opportunities {
+    width: 40%;
+    margin: 0 auto;
+    color: white;
+    font-size: 40px;
+    background-color: black;
+    border-radius: 15px;
+    margin-bottom: 30px;
+
+}
+
+.jobs {
+    width: 40%;
+    margin: 0 auto;
+    color: white;
+    font-size: 40px;
+    background-color: black;
+    border-radius: 15px;
+}
+
+.soon {
+    opacity: 0.5;
+}
+

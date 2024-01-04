@@ -1,0 +1,21 @@
+img {
+    width: 100%;
+}
+
+.imageContainer-for-Header {
+    width:100%
+}
+
+.banner {
+    display: grid;
+    grid-template-columns: 1fr 6fr;
+    background-color: black;
+    opacity: 0.9;
+    margin-top: 5px;
+}
+
+.brand-name {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
