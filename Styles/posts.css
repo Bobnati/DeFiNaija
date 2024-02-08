@@ -1,12 +1,12 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
     margin: 0;
     padding: 0;
     color: #fff;
   }
 
-  h1 {
+  h1, h2, h3 {
     text-align: center;
     padding: 20px 0;
     color: #007BFF;
@@ -38,6 +38,7 @@ body {
   }
   
   .imageContainer {
-    width: 80%;
+    width: 50%;
+    margin: 0 auto;
   }
 
