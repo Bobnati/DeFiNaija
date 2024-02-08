@@ -10,9 +10,11 @@ body {
 }
 
 .all-posts {
+   
     margin-top: 10px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     background-color: black;
+    min-height: 30vh;
 }
 
